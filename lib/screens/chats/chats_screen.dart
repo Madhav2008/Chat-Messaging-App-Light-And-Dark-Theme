@@ -42,7 +42,7 @@ class _ChatsScreenState extends State<ChatsScreen> {
         BottomNavigationBarItem(
           icon: CircleAvatar(
             radius: 14,
-            backgroundImage: AssetImage("assets/images/user_2.png"),
+            backgroundImage: AssetImage("../assets/images/user_2.png"),
           ),
           label: "Profile",
         ),

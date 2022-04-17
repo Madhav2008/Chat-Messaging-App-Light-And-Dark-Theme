@@ -10,7 +10,7 @@ class WelcomeScreen extends StatelessWidget {
         child: Column(
           children: [
             Spacer(flex: 2),
-            Image.asset("assets/images/welcome_image.png"),
+            Image.asset("../assets/images/welcome_image.png"),
             Spacer(flex: 3),
             Text(
               "Welcome to our freedom \nmessaging app",
