@@ -1,4 +1,4 @@
-import 'package:chat/components/primary_button.dart';
+import 'package:chat_messaging_app_light_and_dark_theme/components/primary_button.dart';
 import 'package:chat_messaging_app_light_and_dark_theme/constants.dart';
 import 'package:chat_messaging_app_light_and_dark_theme/screens/chats/chats_screen.dart';
 import 'package:flutter/material.dart';
