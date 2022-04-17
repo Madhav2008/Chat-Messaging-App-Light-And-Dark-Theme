@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 class Chat {
   final String name, lastMessage, image, time;
   final bool isActive;
