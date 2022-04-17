@@ -1,7 +1,7 @@
 import 'package:chat_messaging_app_light_and_dark_theme/components/filled_outline_button.dart';
 import 'package:chat_messaging_app_light_and_dark_theme/constants.dart';
 import 'package:chat_messaging_app_light_and_dark_theme/models/Chat.dart';
-import 'package:chat/screens/messages/message_screen.dart';
+import 'package:chat_messaging_app_light_and_dark_theme/screens/messages/message_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'chat_card.dart';
