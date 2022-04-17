@@ -1,4 +1,4 @@
-import 'package:chat/components/filled_outline_button.dart';
+import 'package:chat_messaging_app_light_and_dark_theme/components/filled_outline_button.dart';
 import 'package:chat/constants.dart';
 import 'package:chat/models/Chat.dart';
 import 'package:chat/screens/messages/message_screen.dart';
